@@ -3,8 +3,9 @@
 ## Installation
 
 ```bash
-pip install sqlparse
+pip install sqlparse, pandas, openpyxl
 ```
+
 
 ## Usage
 
